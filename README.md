@@ -3,12 +3,12 @@
 This is Tool or source code Create to learn and level up technology knowledge 
 i'm not responsible about bad use or any thing else this tool or code open source and Can use or edit or modify 
 
-# First , let’s download some libraries than import them. Open your terminal and write these :
+## First , let’s download some libraries than import them. Open your terminal and write these :
 
     pip install geocoder
     pip install folium
     
-# Now let’s import these libraries. If you want some nice-looking title you can also use pyfiglet library.
+## Now let’s import these libraries. If you want some nice-looking title you can also use pyfiglet library.
 
     import geocoder # to locate the ip 
     import folium # to create a visual map 
@@ -17,7 +17,7 @@ i'm not responsible about bad use or any thing else this tool or code open sourc
     import time
     
     
-# Now let’s create a function to get user input from terminal:
+## Now let’s create a function to get user input from terminal:
 
     import geocoder # to locate the ip 
     import folium # to create a visual map 
@@ -33,7 +33,7 @@ i'm not responsible about bad use or any thing else this tool or code open sourc
     
 
 
-# Now let’s find the location of the ip address chosen by the user:
+## Now let’s find the location of the ip address chosen by the user:
 
     try:
 
